@@ -8,7 +8,7 @@ ta-lib==0.5.5
 technical==1.5.1
 
 ccxt==4.4.92
-cryptography==45.0.5
+cryptography==46.0.6
 aiohttp==3.12.13
 SQLAlchemy==2.0.41
 python-telegram-bot==22.2
@@ -16,7 +16,7 @@ python-telegram-bot==22.2
 httpx>=0.24.1
 humanize==4.12.3
 cachetools==6.1.0
-requests==2.32.4
+requests==2.33.0
 urllib3==2.5.0
 certifi==2025.6.15
 jsonschema==4.24.0
